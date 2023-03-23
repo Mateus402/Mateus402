@@ -16,9 +16,6 @@
 </div>
 
 <br>
-<br>
-
-![snake gif](https://github.com/Mateus402/Mateus402/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
