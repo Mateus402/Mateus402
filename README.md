@@ -25,3 +25,5 @@
  <a href="https://www.instagram.com/_mateus_stangherlin_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+![snake gif](https://github.com/Mateus402/Mateus402/blob/output/github-contribution-grid-snake.svg)
+
