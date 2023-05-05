@@ -1,12 +1,14 @@
+
+
 ### Olá! eu sou o Mateus Stangherlin. 👋
 
 - 👩🏻‍💻 Hoje estou trabalhando com front-end
 - 🤓 Cursando Sistemas de Informação
 <br>
 
-![Mateus](https://github-readme-stats.vercel.app/api?username=Mateus402&hide=contribs,prs)
+![Mateus](https://github-readme-stats.vercel.app/api?username=Mateus402&hide=contribs,prs&theme=merko&show_icons=true)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus402&theme=transparent)](https://github.com/Mateus402/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus402&layout=compact&theme=merko)](https://github.com/Mateus402/github-readme-stats)
 
 <div style="display: inline_block">
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
