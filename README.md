@@ -4,7 +4,12 @@
 
 ### Olá! eu sou o Mateus Stangherlin. 👋
 
-👩🏻‍💻 Hoje estou trabalhando com front-end
+👩🏻‍💻 Hoje estou trabalhando com desenvolvimento web. 
+<br>
+<br>
+🧑‍💻 Tecnologias que utilizo: 
+<br>
+C# / ASP.NET / CORE / JAVASCRIPT / TYPESCRIPT / GIT / GITLAB.
  
 🤓 Cursando Sistemas de Informação
 <br>
