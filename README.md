@@ -9,7 +9,7 @@
 <br>
 🧑‍💻 Tecnologias que utilizo: 
 <br>
-C# / ASP.NET / CORE / JAVASCRIPT / TYPESCRIPT / GIT / GITLAB / VISUAL STUDIO CODE e COMMUNITY.
+C# | ASP.NET | DOTNET CORE | JAVASCRIPT |TYPESCRIPT | GIT | GITLAB | NHIBERNATE.
  
 🤓 Cursando Sistemas de Informação
 <br>
