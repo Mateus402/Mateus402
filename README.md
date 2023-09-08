@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02bfbf&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Welcome+:D;My+name+is+Mateus+Stangherlin;I'm+from+Brasil,+PR;Course+Sistemas+de+Informação+at+UNIMATER;I'm+working+as+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <section align="center">
 
 ### Olá! eu sou o Mateus Stangherlin. 👋
