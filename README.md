@@ -4,12 +4,8 @@
 
 ### Olá! eu sou o Mateus Stangherlin. 👋
 
-👩🏻‍💻 Hoje estou trabalhando com desenvolvimento web. 
+👩🏻‍💻 Hoje estou trabalhando com desenvolvimento web - FullStack. 
 <br>
-<br>
-🧑‍💻 Tecnologias que utilizo: 
-<br>
-C# | ASP.NET | DOTNET CORE | JAVASCRIPT |TYPESCRIPT | GIT | GITLAB | NHIBERNATE.
  
 🤓 Cursando Sistemas de Informação
 <br>
@@ -20,13 +16,25 @@ C# | ASP.NET | DOTNET CORE | JAVASCRIPT |TYPESCRIPT | GIT | GITLAB | NHIBERNATE.
 </div>
 <br><br>
 
+🧑‍💻 Tecnologias que utilizo:
+<br>
+<br>
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mateus-TypeScript" height="30" width="40" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/typescript-icon.svg">
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mateus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Mateus-Csharp" height="30" width="40" src="https://skillicons.dev/icons?i=dotnet&theme=dark">
+  <img align="center" alt="Mateus-Csharp" height="30" width="40" src="https://skillicons.dev/icons?i=gitlab&theme=dark">
+  <img align="center" alt="Mateus-Csharp" height="30" width="40" src="https://skillicons.dev/icons?i=postman&theme=dark">
+  <img align="center" alt="Mateus-Csharp" height="30" width="40" src="https://skillicons.dev/icons?i=visualstudio&theme=dark">
+  <img align="center" alt="Mateus-Csharp" height="30" width="40" src="https://skillicons.dev/icons?i=vscode&theme=dark">
+  <img align="center" alt="Mateus-Csharp" height="30" width="40" src="https://skillicons.dev/icons?i=postgres&theme=dark">
+
 
 
 <br>
+
 
 ##
 
